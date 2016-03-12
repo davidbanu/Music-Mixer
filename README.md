@@ -9,6 +9,7 @@ This is a collaborative app where you can play with different sounds. I've made 
 To use this website, choose one of the following options to get started:
 * Fork this repository on GitHub
 * Send an email to me at: banudavidcip@gmail.com
+
 ## Bugs and Issues
 
 Have a bug or an issue with this theme? [Open a new issue](https://github.com/davidbanu/issues) here on GitHub
